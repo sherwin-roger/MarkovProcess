@@ -24,10 +24,12 @@ Assumptions for Markov Chain :
 
 
 # Program
+```
 /*
 Developed by: Fawziya
 Registration number: 212220230017
 */
+```
 
 ```python
 import numpy as np
